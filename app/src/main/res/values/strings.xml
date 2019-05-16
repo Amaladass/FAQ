@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">FAQ</string>
+
+    <string name="activity_college_details">
+        Welcome To PSNACET,\n\n
+\t\t\t~Our college is a premier institution in TamilNadu with International standards.
+\n\t\t\t~It was established in 1984 at the outskirts of Dindigul.
+\n\t\t\t~Affiliated to Anna University, Chennai.
+Accredited with ‘A’ grade by NAAC.
+\n\t\t\t~All UG Programmes along with MBA and MCA are accredited by National Board of Accreditation, New Delhi.
+\n\t\t\t~Research Excellence in all Departments being recognized as Research Centers by Anna University, Chennai. \n\n
+Contact :  \n\t\tKothandaraman nagar,\n\t\tDindigul-624622,\n\t\tTamilnadu,\n\t\tIndia
+    </string>
+
+    <string name="activity_canteen_details">
+        LOCATION -  FIRST RIGHT FROM MAIN GATE.\n\n
+	GIRLS CANTEEN:
+	\n\t\tLOCATION - NEAR TO THE PLAY AREA.
+	\n\nBEVERAGE SHOPS:
+	\n\t\tLOCATION -  1. OPPOSITE TO THE FIRST YEAR BLOCK.
+        \n\t\t 2. OPPOSITE TO THE CSE BLOCK.
+        \n\t\t 3. ADJUSENT TO THE EEE BLOCK.
+	\n\nMESS:
+        \n\t\tLOCATION - OPPOSITE TO THE TRUST OFFICE, AND IT NEAR TO THE FIRST YEAR BLOCK.
+    </string>
+    <string name="activity_out_bus">
+        \nUp - From Dindigul Busstand\n
+        ----------------------------------------------\n
+\t~Dindigul to Pannaipatty(7.45 am)\n
+\t~Dindigul to PSNA College(Alagu Patty)(7.50 am)\n
+\t~Dindigul to Ammapatty(7.55 am) and (12.50 pm)\n
+\t~Dindigul to SeethamaramNaalRoad(8.10 am)\n
+\t~Dindigul to Ottanchathiram(8.20 am)\n
+\t~Dindigul to Palani\n
+\t~Dindigul to Coimbatore\n
+\t~Dindigul to Tripur\n
+\t~Dindigul to Tharapuram\n\n
+   *\tForm Madurai Bus stand\n
+     \t~Madurai to Palani\n
+     \t~Madurai to Coimbatore\n
+     \t~Madurai to Tripur\n\n
+Down - From PSNA College\n
+        ----------------------------------------------\n
+        \t~Ottanchathiram to Dindigul(4.05 pm)\n
+\t~Kannivadi to Dindigul(4.15 pm)\n
+        \t~Sri Ramapuram to Dindigul(4.25 pm)\n
+\t~Ottanchathiram to Dindigul(4.45 pm)\n
+\t~Pannaipatty to Dindigul(5.15 pm)\n
+\t~Ammapatty to Dindigul(5.20 pm)\n
+\t~Kethaiyerumbu to Dindigul(5.30 pm)\n
+       \t~Sri Ramapuram to Dindigul(5.45 pm)\n
+\t~Palani to Dindigul\n
+       \t~Coimbatore to Dindigul\n\n
+     * \tFor other District\n
+\t~Palani to Trichy\n
+\t~Palani to Karaikudi\n
+\t~Palani to Thanjavur\n
+\t~Palani to Natham\n
+\t~Palani to Madurai\n
+       \t~Coimbatore to Madurai\n
+       \t~Coimbatore to Sivakasi\n
+       \t~Coimbatore to Natham\n
+    </string>
+
+</resources>

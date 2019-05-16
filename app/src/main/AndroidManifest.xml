@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.amul.faq">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CollegeDetailsActivity" />
+        <activity android:name=".CanteenDetailsActivity" />
+        <activity android:name=".CoursesOfferedActivity" />
+        <activity android:name=".DepartmentDetailsActivity" />
+        <activity android:name=".ApplicationFormActivity" />
+        <activity android:name=".LibraryDetails" />
+        <activity android:name=".ContactDetails" />
+        <activity android:name=".StrengthOfDetails" />
+        <activity android:name=".CollegeMap" />
+        <activity android:name=".OnlinePaymentDetails" />
+        <activity android:name=".RulesAndRegulation" />
+        <activity android:name=".ScholarshipDetails" />
+        <activity android:name=".IdeaSubmission" />
+        <activity android:name=".PassportDetails" />
+        <activity android:name=".CollegePhotos" />
+        <activity android:name=".Infrasturcture" />
+        <activity android:name=".AnnualFee" />
+        <activity android:name=".BankLoan" />
+        <activity android:name=".HostelDetails" />
+        <activity android:name=".IvRequisition" />
+        <activity android:name=".TransportDetails" />
+        <activity android:name=".PlacementDetails" />
+        <activity android:name=".CollegeTiming" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".OutBusActivity"></activity>
+    </application>
+
+</manifest>
